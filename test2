@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Usuário:<input type="text" name="" id=""
+    size="20">
+    Senha:<input type="text" name="" id="">
+    <br>
+    Data:<input type="text" name="" id="">
+    <br>
+    <input type="button" value="Enviar">
+    <br>
+    <input type="radio" name="sexo" id="f">feminino
+    <input type="radio" name="sexo" id="m">masculino
+    <br><br>
+    <select nome="" id="">
+        <optgroup label="Backand">
+            <option volume="Java">Java</option>
+            <option volume="Python">Python</option>
+            <option volume="Kotlin">Kotlin</option>
+            <option volume="C++">C++</option>
+        </optgroup>
+        <optgroup label="=Frontend">
+            <option volume="HTML">HTML</option>
+            <option volume="CSS">CSS</option>
+            <option volume="js">Javascript</option>
+        </optgroup>
+    </select>
+
+    <textarea nome="" id="">
+</body>
+</html>
